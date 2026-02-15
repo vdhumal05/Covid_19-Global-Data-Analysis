@@ -5,9 +5,11 @@ Exploratory Data Analysis of global COVID-19 data to uncover trends in cases, de
 ------Covid_19-Global-Data-Analysis----------
  
  1)Project Overview:
+ 
 This project focuses on analyzing global COVID-19 data to understand trends in cases, deaths, testing, and growth rates across different countries. The analysis includes data cleaning, exploratory data analysis (EDA), and visualizations to extract meaningful insights from the dataset.
 
 2)Problem Statement
+
 To analyze global COVID-19 trends and identify:
 
 Global daily new cases and deaths trend
@@ -19,6 +21,7 @@ Countries experiencing rapid daily case growth
 Overall pandemic impact using data-driven insights
 
 3)Dataset
+
 Source: Our World in Data
 
 Contains information such as:
@@ -44,6 +47,7 @@ Human Development Index
 And many more indicators
 
 4)Technologies Used
+
 Python
 
 Pandas
@@ -56,6 +60,7 @@ Seaborn
 
 
 5)Key Analysis Performed
+
 1️⃣ Global Trend Analysis
 
 Compared daily new COVID-19 cases and new deaths globally.
@@ -77,6 +82,7 @@ Daily Growth Rate (%) = (New Cases / Previous Day Total Cases) × 100
 Identified countries at risk of new COVID waves.
 
 6) Key Insights
+   
 Global cases showed multiple waves over time.
 
 High positive rate countries indicate insufficient testing.
