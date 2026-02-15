@@ -2,7 +2,7 @@
 Exploratory Data Analysis of global COVID-19 data to uncover trends in cases, deaths, testing, and daily growth rates using Pandas &amp; Matplotlib.
 
 
-** COVID-19 Global Data Analysis**
+------Covid_19-Global-Data-Analysis----------
  
  1)Project Overview:
 This project focuses on analyzing global COVID-19 data to understand trends in cases, deaths, testing, and growth rates across different countries. The analysis includes data cleaning, exploratory data analysis (EDA), and visualizations to extract meaningful insights from the dataset.
